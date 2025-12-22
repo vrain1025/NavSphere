@@ -8,6 +8,6 @@ GITHUB_CLIENT_ID = "Ov23liHmhUEW4VDB54vd"
 GITHUB_OWNER = "vrain1025"
 GITHUB_REPO = "navsphere-data"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://nav.vrain.workers.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://nav.vrain.workers.dev"
+NEXTAUTH_URL = "https://nav.xinyangai.com/api/auth"
+NEXT_PUBLIC_API_URL="https://nav.xinyangai.com"
 
